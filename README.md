@@ -1,3 +1,3 @@
 # deep-learning-sample-code
 
-sample deep learning code
+sample code to build neural networks with TensorFlow
